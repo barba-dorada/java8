@@ -1,2 +1,8 @@
-# Created by .ignore support plugin (hsz.mobi)
 .idea
+.idea_modules
+idea.bat
+out
+lib
+target
+*.iml
+atlassian-ide-plugin.xml
